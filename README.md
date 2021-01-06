@@ -5,3 +5,4 @@ git命令学习
 3、分支develop测试
 4、在远程仓库修改，添加此行，更新至远程develop
 5、在本地仓库修改develop，添加此行，更新至远程develop
+6、同学a修改了代码
